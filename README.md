@@ -1,7 +1,7 @@
-# Sys Web Browser DRG - Versão 2.0.2.0 🚀
+# Sys Web Browser DRG - Versão 2.0.4.0 🚀
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vers%C3%A3o-2.0.1.0-blue?style=for-the-badge" alt="Versão">
+  <img src="https://img.shields.io/badge/Vers%C3%A3o-2.0.4.0-blue?style=for-the-badge" alt="Versão">
   <img src="https://img.shields.io/badge/Linguagem-C%23-green?style=for-the-badge" alt="C#">
   <img src="https://img.shields.io/badge/Plataforma-Windows-0078d7?style=for-the-badge&logo=windows" alt="Windows">
 </p>
@@ -38,7 +38,7 @@ O sistema conta com um monitor de integridade em tempo real:
 ## 🚀 Como Executar
 
 ### 1. Download
-* 📦 **[Versão de download](https://github.com/danielnerytondo/SysBrowserWL_DRG/releases/tag/v2.0.2.0)**
+* 📦 **[Versão de download](https://github.com/danielnerytondo/SysBrowserWL_DRG/releases/tag/v2.0.4.0)**
 
 
 ### 2. Requisitos Obrigatórios
@@ -46,7 +46,7 @@ O sistema conta com um monitor de integridade em tempo real:
 
 ---
 
-## 📝 Changelog 2.0.2.0
+## 📝 Changelog 2.0.4.0
 * Migração total de VB.NET para C#.
 * Implementação do Watchdog.
 * Otimização de carregamento de customizações.
